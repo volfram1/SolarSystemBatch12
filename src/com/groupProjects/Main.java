@@ -9,5 +9,10 @@ public class Main {
         FactorX.moon="4";
         FactorX.planet="2";
         FactorX.stars="10000";
+
+        FeatureSun Xfact=new FeatureSun();
+        Xfact.color="green";
+        Xfact.radius="1000000";
+        Xfact.heat="200";
     }
 }
