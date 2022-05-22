@@ -14,5 +14,11 @@ public class Main {
         Xfact.color="green";
         Xfact.radius="1000000";
         Xfact.heat="200";
+
+        FeatureStars FacX=new FeatureStars();
+        FacX.size="28137462378";
+        FacX.color="green";
+        FacX.radius="923845632";
+        
     }
 }
